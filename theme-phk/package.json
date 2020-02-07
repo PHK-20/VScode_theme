@@ -1,0 +1,15 @@
+{
+    "name": "theme-phk",
+    "version": "0.1.0",
+    "publisher": "GV",
+    "engines": { "vscode": "*" },
+    "contributes": {
+        "themes": [
+            {
+                "label": "phk",
+                "uiTheme": "vs-dark",
+                "path": "./themes/phk-theme.json"
+            }
+        ]
+    }
+}
