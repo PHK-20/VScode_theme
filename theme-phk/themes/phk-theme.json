@@ -25,7 +25,7 @@
         "editorCursor.foreground": "#ff0000",
         // "editor.selectionBackground": "#6A5ACD",  
         "editor.selectionBackground": "#000000",
-        "editorLineNumber.activeForeground": "#cacaca",
+        "editorLineNumber.activeForeground": "#ffffff",
         "editor.selectionHighlightBorder": "#ff0000",
         //        "editor.findMatchBackground": "#5b6ca299",
         //             "editor.findMatchBorder": "#5b6ca299",
