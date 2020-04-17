@@ -3,6 +3,7 @@
     "name": "phk-theme",
     "type": "dark",
     "colors": {
+        "list.filterMatchBorder": "#ff0000",
         "editor.background": "#1E1E1E",
         "editor.foreground": "#D4D4D4",
         "editor.inactiveSelectionBackground": "#3A3D41",
@@ -23,7 +24,7 @@
         "editorBracketMatch.border": "#ff0000",
         "editor.lineHighlightBackground": "#000000",
         "editorCursor.foreground": "#ff0000",
-        // "editor.selectionBackground": "#6A5ACD",  
+        // "editor.selectionBackground": "#6A5ACD",
         "editor.selectionBackground": "#000000",
         "editorLineNumber.activeForeground": "#ffffff",
         "editor.selectionHighlightBorder": "#ff0000",
