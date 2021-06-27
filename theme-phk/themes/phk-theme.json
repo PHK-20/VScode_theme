@@ -31,7 +31,6 @@
         "editor.findMatchBorder": "#ff0000",
         "editor.findMatchHighlightBackground": "#000000",
         "editorSuggestWidget.selectedBackground": "#4e4e4e",
-        "editorGutter.background": "#ff0000"
     },
     "tokenColors": [
         {
