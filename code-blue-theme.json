@@ -46,13 +46,13 @@
         "editorBracketMatch.border": "#ff0000",
         "editor.lineHighlightBackground": "#4b9fff54",
         "editorCursor.foreground": "#ff0000",
-        "editor.selectionBackground": "#4b9fff54",
         "editorLineNumber.activeForeground": "#ffffff",
-        "editor.selectionHighlightBorder": "#ff0000",
-        "editor.findMatchBackground": "#4b9fff54",
-        "editor.findMatchBorder": "#ff0000",
-        "editor.findMatchHighlightBackground": "#000000",
         "editorSuggestWidget.selectedBackground": "#4e4e4e",
+        "editor.selectionForeground": "#ffffff",
+        "editor.selectionHighlightBorder": "#4470ff",
+        "editor.findMatchBorder": "#ff0000",
+        "editor.findMatchHighlightBorder": "#4470ff",
+        "editor.findMatchHighlightBackground": "#00000000"
     },
     "tokenColors": [
         {
