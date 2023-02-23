@@ -51,9 +51,8 @@
         "editor.selectionHighlightBorder": "#ff0000",
         "editor.selectionBackground": "#4b9fff54",
         "editor.findMatchBorder": "#ff0000",
-        "editor.findMatchHighlightBorder": "#3636f8",
-        "editor.findMatchBackground": "#00000000",
-        "editor.findMatchHighlightBackground": "#00000081"
+        "editor.findMatchBackground": "#48c9f73f",
+        "editor.findMatchHighlightBackground": "#48c9f73f"
     },
     "tokenColors": [
         {
