@@ -21,7 +21,6 @@
         "terminal.ansiWhite": "#eff0eb",
         "terminal.ansiYellow": "#f3f99d",
         "terminal.selectionBackground": "#4b9fff54",
-
         // phk
         "tab.activeBorderTop": "#007ACC",
         "sideBarSectionHeader.foreground": "#ffffff",
@@ -29,9 +28,9 @@
         "list.filterMatchBorder": "#ff0000",
         "editor.background": "#1e1e1e00",
         "editor.foreground": "#D4D4D4",
-        "editor.inactiveSelectionBackground": "#3A3D41",
-        "editorIndentGuide.background": "#404040",
-        "editorIndentGuide.activeBackground": "#a3a3a3",
+        "editor.inactiveSelectionBackground": "#c7f4d272",
+        "editorIndentGuide.background1": "#404040",
+        "editorIndentGuide.activeBackground1": "#a3a3a3",
         "editor.selectionHighlightBackground": "#ADD6FF26",
         "list.dropBackground": "#383B3D",
         "activityBarBadge.background": "#007ACC",
@@ -464,7 +463,21 @@
             "name": "js dom",
             "scope": "support.type.object.dom",
             "settings": {
-                "foreground": "#2bbac5"
+                "foreground": "#25929a"
+            }
+        },
+        {
+            "name": "go white",
+            "scope": "entity.name.type.go,variable.other.go,variable.other.import.go,variable.other.property.go,variable.parameter.go",
+            "settings": {
+                "foreground": "#d3d3d3",
+            }
+        },
+        {
+            "name": "entity.name.function.support.go",
+            "scope": "entity.name.function.support.go",
+            "settings": {
+                "foreground": "#52ADF2",
             }
         },
         {
